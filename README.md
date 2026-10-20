@@ -24,10 +24,8 @@ The dataset was directly supplied by the professor and it contains:
 - Target: `Clicked on Ad` (0/1).
 
 ## Installation and usage
-
+Clone the repository and install the dependencies
 ```bash
-git clone <repository-URL>
-cd <folder-name>
 pip install -r requirements.txt
 jupyter notebook TabularAdClickPredictionNN.ipynb
 ```
